@@ -6,9 +6,6 @@ categories:
 tags:
 - 블로그
 
-toc_label: 블로그
-toc: true
-toc_sticky: true
 
 date: 2025-05-16
 last_modified_at: 2025-05-16
