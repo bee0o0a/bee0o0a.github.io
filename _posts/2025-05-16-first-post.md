@@ -1,14 +1,9 @@
 ---
 title: "첫번째 게시물작성"
-excerpt: "하나하나 테스트 하면서 작성하는중 ..."
 categories:
 - 잡담
 tags:
 - 블로그
-
-
-date: 2025-05-16
-last_modified_at: 2025-05-16
 ---
 
 안녕하세요.
