@@ -2,9 +2,9 @@
 layout: posts
 title: "첫번째 게시물작성"
 categories:
-- 잡담
+- "잡담"
 tags:
-- 블로그
+- "블로그"
 ---
 
 # 안녕하세요!
