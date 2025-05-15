@@ -1,6 +1,10 @@
 ---
 layout: post
 title: "첫번째 게시물작성"
+categories:
+- 소곤소곤
+tags:
+- 잡담
 ---
 
 # 안녕하세요!
