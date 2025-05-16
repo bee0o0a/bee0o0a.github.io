@@ -1,6 +1,6 @@
 # main links
 # main:
-sidebar-category:
+main:
   - title: "💻 Programming"
     children:
       - title: "C++"
