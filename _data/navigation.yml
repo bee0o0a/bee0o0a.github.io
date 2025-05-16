@@ -1,11 +1,16 @@
 # main links
 # main:
 sidebar-category:
-  - title: "카테고리"
+  - title: "💻 Category"
     children:
       - title: "C++"
         url: "/cpp"
+        category: "cpp"
+
       - title: "Java"
         url:  "/java"
+        category: "java"
+
       - title: "Algorithm"
         url:  "/algorithm"
+        category: "algorithm"
