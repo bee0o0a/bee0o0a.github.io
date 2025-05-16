@@ -2,9 +2,9 @@
 layout: posts
 title: "포인터 겉핥기.."
 categories:
-- c++
+- cpp
 tags:
-- 포인터
+- pointer
 ---
 
 # 포인터를 살짝 핥아보자..

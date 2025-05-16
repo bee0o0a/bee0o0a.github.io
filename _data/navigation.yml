@@ -1,6 +1,11 @@
 # main links
-main:
-  - title: "Categories"
-    url: https://bee0o0a.github.io/categories/
-  - title: "Tags"
-    url: https://bee0o0a.github.io/tags/
+# main:
+sidebar-category:
+  - title: "카테고리"
+    children:
+      - title: "C++"
+        url: "/cpp"
+      - title: "Java"
+        url:  "/java"
+      - title: "Algorithm"
+        url:  "/algorithm"
