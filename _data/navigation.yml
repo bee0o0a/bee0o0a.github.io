@@ -1,26 +1,19 @@
 # main links
-# main:
-main:
-  - title: "💻 Programming"
+sidebar-category:
+  - title: "Programming"
     children:
       - title: "C++"
-        url: "/cpp"
-        category: "cpp"
-
+        url: /cpp
       - title: "Java"
-        url:  "/java"
-        category: "java"
-
+        url: /java
+      - title: "Spring"
+        url: /spring
       - title: "Algorithm"
-        url:  "/algorithm"
-        category: "algorithm"
-  - title: "☕️ Life"
+        url: /Algorithm
+
+  - title: "Life"
     children:
-      - title: "회고"
-        url: "review"
-        category: "review"
-        
+      - title: "후기"
+        url: /review
       - title: "일상"
-        url: "etc"
-        category: "etc"
-      
+        url: /life

@@ -1,10 +1,6 @@
 ---
-layout: posts
 title: "포인터 겉핥기.."
-categories:
-- cpp
-tags:
-- pointer
+categories: [cpp]
 ---
 
 # 포인터를 살짝 핥아보자..
