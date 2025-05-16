@@ -1,7 +1,7 @@
 # main links
 # main:
 sidebar-category:
-  - title: "💻 Category"
+  - title: "💻 Programming"
     children:
       - title: "C++"
         url: "/cpp"
@@ -14,3 +14,13 @@ sidebar-category:
       - title: "Algorithm"
         url:  "/algorithm"
         category: "algorithm"
+  - title: "☕️ Life"
+    children:
+      - title: "회고"
+        url: "review"
+        category: "review"
+        
+      - title: "일상"
+        url: "etc"
+        category: "etc"
+      
